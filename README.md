@@ -45,12 +45,8 @@ src/
 ### **2. Running with .JAR**
 #### **Running the App (Recommended for Users)**
 
-1. **Fork** this repository on GitHub.
-2. **Clone** the forked project to your computer.
-3. Open the project in **NetBeans**.
-4. Perform **Clean and Build**.
-5. Go to the `dist/` folder.
-6. **Double‑click the generated `.jar` file** to run the application.
+1. Go to the `dist/` folder.
+2. **Double‑click the generated `.jar` file** to run the application.
 
 #### **Running the .JAR manually (optional)**
 
