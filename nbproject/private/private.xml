@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/config/DBHelper.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/ui/MainGUI.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/config/HeroDAO.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/config/EnemyDAO.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/models/effects/Burn.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/contracts/interfaces/StatusEffect.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/models/effects/Regen.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/models/effects/Shield.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/models/strategies/StrategyFactory.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/models/effects/effectFactory.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/models/skills/SkillFactory.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/contracts/abstracts/Character.java</file>
+            <file>file:/D:/POLINEMA2024/s3/PBO%20prak/TI2E_14_Najla_Kuis2/GUI_game/src/game/models/chars/Player.java</file>
+        </group>
+    </open-files>
+</project-private>
